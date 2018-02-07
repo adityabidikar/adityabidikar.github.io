@@ -28,6 +28,7 @@ github_username:  adityab
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-stickyposts
 timezone: Asia/Calcutta
 
 # Exclude from processing.
