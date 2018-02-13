@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Fonts
-permalink: /fonts/
+title: Lettering
+permalink: /lettering/
+pagination:
+  enabled: true
+  category: lettering
 ---
-{% for post in site.categories.fonts %}
-<div class="post col-10 col-lg-7 col-xl-5">
+{% for post in paginator.posts %}
+<div class="post col-10 col-lg-7 col-xl-5 {{ post.category }}">
 	<a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.ft-img }}"></a>
 	<div class="post-meta">
 		<span class="post-category">{{ post.category }}</span>

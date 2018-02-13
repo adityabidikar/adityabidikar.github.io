@@ -1,10 +1,10 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Chivo:400,400i,700,700i');
+@import url('https://use.typekit.net/xbc5bre.css');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
-$font:    			'Chivo', sans-serif;
+$font:    			'Setimo', sans-serif;
 $grey-primary:		#6B6A6A;
 $grey-light:		#F2F2F2;
 $red-primary:		#F92401;
@@ -203,6 +203,12 @@ a {
 				text-transform: lowercase;
 			}
 		}
+
+		&.fonts {
+			img {
+				box-shadow: none;
+			}
+		}
 	}
 
 	&.single {
@@ -243,7 +249,7 @@ a {
 			}
 		}
 
-		figcaption {
+		img + em {
 			color: rgba($grey-primary, 0.75);
 			font-size: 0.8em;
 			font-style: italic;
@@ -346,6 +352,15 @@ a {
 	color: rgba($grey-primary, 0.75);
 	font-size: 0.8em;
 	line-height: 24px;
+
+	a {
+		color: rgba($grey-primary, 0.75);
+
+		&:hover {
+			color: $red-primary;
+			text-decoration: none;
+		}
+	}
 }
 
 @media (min-width: 992px) {
@@ -380,7 +395,8 @@ a {
 				width: 120%;
 			}
 
-			figcaption {
+			img + em {
+				display: block;
 				width: 120%;
 			}
 		}

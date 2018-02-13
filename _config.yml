@@ -26,10 +26,20 @@ github_username:  adityab
 
 # Build settings
 markdown: kramdown
+sass:
+    style: compressed
+permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-stickyposts
 timezone: Asia/Calcutta
+pagination:
+    enabled: true
+    per_page: 5
+    sort_reverse: false
+    sort_field: "stickiness"
+stickyposts:
+    sort: "date"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
