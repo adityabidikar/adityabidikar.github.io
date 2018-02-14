@@ -8,7 +8,7 @@ pagination:
 ---
 {% for post in paginator.posts %}
 <div class="post col-10 col-lg-7 col-xl-5 {{ post.category }}">
-	<a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.ft-img }}"></a>
+	<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.ft-img | prepend: site.baseurl }}"></a>
 	<div class="post-meta">
 		<span class="post-category">{{ post.category }}</span>
 		<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>

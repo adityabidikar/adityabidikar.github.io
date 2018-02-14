@@ -4,12 +4,15 @@ branches:
   only:
   - master
 rvm:
-- 2.3.0
+- 2.3.3
 # set execution permission on our build script
 before_script:
- - chmod +x ./script/cibuild
+ - chmod +x ./script/cibuild.sh
 # path to our build script. 
 # Travis will run `bundle install` by default before running our script
-script: ./script/cibuild
+script: ./script/cibuild.sh
 exclude: [vendor]
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 sudo: false
