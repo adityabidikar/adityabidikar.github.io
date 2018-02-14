@@ -11,8 +11,8 @@ rvm:
 # path to our build script. 
 # Travis will run `bundle install` by default before running our script
 # script: ./script/build.sh
-install: gem install jekyll html-proofer
-script: jekyll build && htmlproofer ./_site
+# install: gem install jekyll html-proofer
+script: jekyll build
 exclude: [vendor]
 env:
   global:
