@@ -26,5 +26,3 @@ git config user.name "Aditya Bidikar"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push
-# git push $GITHUB_REPO master:master
-# git push --force origin gh-pages
