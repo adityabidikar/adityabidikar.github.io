@@ -20,13 +20,11 @@ mkdir _site
 bundle exec jekyll build
 
 # push
-# cd _site
-# git config user.email "adibidi@gmail.com"
-# git config user.name "Aditya Bidikar"
-# git add --all
-# git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-<<<<<<< HEAD
+cd _site
+git config user.email "adibidi@gmail.com"
+git config user.name "Aditya Bidikar"
+git add --all
+git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
+git push
 # git push $GITHUB_REPO master:master
-=======
 # git push --force origin gh-pages
->>>>>>> parent of 3674964... update build script
