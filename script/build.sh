@@ -22,9 +22,9 @@ git clone --depth 1 $GITHUB_REPO _site
 bundle exec jekyll build
 
 # push
-cd _site
-git config user.email "adibidi@gmail.com"
-git config user.name "Aditya Bidikar"
-git add --all
-git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push $GITHUB_REPO master:master
+# cd _site
+# git config user.email "adibidi@gmail.com"
+# git config user.name "Aditya Bidikar"
+# git add --all
+# git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
+# git push $GITHUB_REPO master:master
