@@ -1,0 +1,18 @@
+---
+layout: default
+title: Writing
+permalink: /writing/
+pagination:
+  enabled: true
+  category: writing
+---
+{% for post in paginator.posts %}
+<div class="post col-10 col-lg-7 col-xl-5 {{ post.category }}">
+	<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+	<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+	<div class="post-meta">
+		<span class="post-category">{{ post.category }}</span>
+		<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
+	</div>
+</div> <!-- .post -->
+{% endfor %}
