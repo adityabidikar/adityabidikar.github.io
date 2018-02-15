@@ -25,4 +25,4 @@ git config user.email "adibidi@gmail.com"
 git config user.name "Aditya Bidikar"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push
+git push origin master
