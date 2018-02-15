@@ -9,14 +9,12 @@ fi
 # enable error reporting to the console
 set -e
 
-GITHUB_REPO=https://${GITHUB_TOKEN}@github.com/adityabidikar/adityabidikar.github.io.git
-
 # cleanup "_site"
 rm -rf _site
 mkdir _site
 
 # clone remote repo to "_site"
-git clone --depth 1 $GITHUB_REPO _site
+# git clone https://${GITHUB_TOKEN}@github.com/adityabidikar/adityabidikar.github.io.git --branch gh-pages _site
 
 # build with Jekyll into "_site"
 bundle exec jekyll build
@@ -27,4 +25,8 @@ bundle exec jekyll build
 # git config user.name "Aditya Bidikar"
 # git add --all
 # git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
+<<<<<<< HEAD
 # git push $GITHUB_REPO master:master
+=======
+# git push --force origin gh-pages
+>>>>>>> parent of 3674964... update build script
