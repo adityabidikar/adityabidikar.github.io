@@ -14,7 +14,7 @@ rm -rf _site
 mkdir _site
 
 # clone remote repo to "_site"
-# git clone https://${GITHUB_TOKEN}@github.com/adityabidikar/adityabidikar.github.io.git --branch gh-pages _site
+git clone https://${GITHUB_TOKEN}@github.com/adityabidikar/adityabidikar.github.io.git --branch master _site
 
 # build with Jekyll into "_site"
 bundle exec jekyll build
@@ -25,4 +25,4 @@ git config user.email "adibidi@gmail.com"
 git config user.name "Aditya Bidikar"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push origin master
+git push --force origin master
