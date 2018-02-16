@@ -20,7 +20,7 @@ mkdir _site
 bundle exec jekyll build
 
 # push
-# cd _site
+cd _site
 git config user.email "adibidi@gmail.com"
 git config user.name "Aditya Bidikar"
 git add --all
