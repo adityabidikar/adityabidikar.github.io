@@ -14,7 +14,7 @@ pagination:
 		<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
 	{% endif %}
 	<div class="post-meta">
-		<span class="post-category">FUCK {{ post.category }}</span>
+		<span class="post-category">{{ post.category }}</span>
 		<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
 	</div>
 </div> <!-- .post -->
