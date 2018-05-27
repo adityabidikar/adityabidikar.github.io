@@ -1,10 +1,12 @@
 ---
 ---
 
+@import url('normalize.css');
 @import url('https://use.typekit.net/xbc5bre.css');
+@import url('https://fonts.googleapis.com/css?family=Chivo:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
-$font:    			'Setimo', sans-serif;
+$font:    			'Setimo', 'Chivo', sans-serif;
 $grey-primary:		#6B6A6A;
 $grey-light:		#F2F2F2;
 $red-primary:		#F92401;
@@ -18,268 +20,353 @@ $white:				#FFFFFF;
           border-radius: $radius;
 }
 
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+.display-none {
+	display: none;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
 // elements
 
-body {
+html, body {
+	background: $grey-light;
 	color: $grey-primary;
 	font-family: $font;
 	font-size: 18px;
-	line-height: 24px;
+	line-height: 1.5;
+	overflow-x: hidden;
 }
-
-img {
-	background: $grey-light;
-	max-width: 100%;
-}
-
-a {
-	transition: color 0.2s ease;
-}
-
-::-webkit-input-placeholder, 
-:-ms-input-placeholder,
-::-moz-placeholder,
-:-moz-placeholder {
-	color: $red-primary;
-}
-
-// layout
 
 .header {
 	background: $grey-light;
-	padding: 0;
-
+	display: flex;
+	flex-direction: row;
+	font-size: 0.9rem;
+	justify-content: space-between;
+	
 	img {
+		display: block;
 		height: 84px;
 		width: 84px;
 	}
 
-	h1 {
-		font-size: 1em;
-		font-weight: bold;
-		margin-bottom: 0;
-	}
+	.name-tag {
+		padding: 1rem 0;
+		width: calc(100% - 84px - 48px);
 
-	ul {
-		font-weight: bold;
-		font-size: 0.9em;
-		line-height: 24px;
-		list-style: none;
-		padding-left: 0;
-		text-transform: uppercase;
+		h1 {
+			font-size: 1rem;
+			margin: 0;
+		}
 
-		a {
-			color: $grey-primary;
-
-			&:focus, &:active, &:visited {
-				color: inherit;
-			}
-
-			&:hover {
-				color: $red-primary;
-				text-decoration: none;
-			}
+		span {
+			display: block;
 		}
 	}
 
 	button {
 		background: none;
 		border: none;
-		padding: 0;
-
-		i {
-			padding: 12px;
-		}
-
-		&:active, &:focus {
-			outline: none;
-		}
+		cursor: pointer;
+		outline: none;
+		padding: 0 12px;
 
 		&:hover {
-			cursor: pointer;
+			background: darken($grey-light, 4%);
 		}
 	}
+
+	ul {
+		display: none;
+	}
+
+	.footer {
+		display: none;
+	}
+
 }
 
 .mobile-menu {
 	background: $grey-light;
+	box-shadow: 0 4px 8px rgba($grey-primary, 0.25);
 	font-weight: bold;
-	font-size: 1.4em;
-	line-height: 48px;
 	list-style: none;
-	padding: 24px;
+	margin: 0;
+	padding: 0 24px 24px;
 	position: absolute;
 	text-transform: uppercase;
-	top: 84px;
-	z-index: 1000;
+	width: 100%;
 
-	a {
-		color: $grey-primary;
+	li {
+		padding: 6px 0;
 
-		&:focus, &:active, &:visited {
-			color: inherit;
-		}
-
-		&:hover {
-			color: $red-primary;
+		a {
+			color: $grey-primary;
 			text-decoration: none;
 		}
 	}
 }
 
-.content {
-	&.home {
-		overflow-x: scroll;
-		-webkit-overflow-scrolling: touch;
+.subscribe-title {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 12px;
+}
 
-		.row {
-			flex-flow: row;
-			padding: calc(12px * 4) 0;
+.subscribe {
+	margin-bottom: 12px;
+
+	.mc-field-group {
+		display: inline-block;
+		float: left;
+		width: calc(100% - 48px);
+
+		input[type="email"] {
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			appearance: none;
+			border: 1px solid $white;
+			@include border-radius(4px 0 0 4px);
+			color: $grey-primary;
+			height: 48px;
+			outline: none;
+			padding: 15px 8px;
+			width: 100%;
+
+			&:active, &:focus {
+				border: 1px solid lighten($grey-primary, 40%);
+			}
+
+			&::placeholder {
+				color: lighten($grey-primary, 40%);
+			}
 		}
 	}
 
-	.post {
-		padding: 0 24px;
+	.clear {
+		display: inline-block;
+		float: left;
 
-		img {
-			box-shadow: 0 0 10px rgba($black, 0.25);
-			transition: box-shadow 0.2s ease;
+		.button {
+			background: lighten($grey-primary, 40%);
+			border: 1px solid lighten($grey-primary, 40%);
+			@include border-radius(0 4px 4px 0);
+			color: $white;
+			height: 48px;
+			outline: none;
+			padding: 15px 0;
+			text-align: center;
+			width: 48px;
 
-			&:hover {
-				box-shadow: 0 0 15px rgba($black, 0.35);
+			&:hover, &:active, &:focus {
+				background: lighten($grey-primary, 25%);
+				border: 1px solid lighten($grey-primary, 25%);
+				cursor: pointer;
 			}
 		}
+	}
+}
 
-		h2 {
-			font-size: 2.66em;
-			font-weight: bold;
-			line-height: 48px;
-			margin-bottom: 12px;
+.copyright {
+	color: lighten($grey-primary, 15%);
+	display: block;
 
-			a {
-				color: $grey-primary;
+	a {
+		color: lighten($grey-primary, 15%);
 
-				&:active, &:focus, &:visited {
-					color: inherit;
-				}
+		&:hover, &:active, &:focus {
+			color: $red-primary;
+		}
+	}
+}
 
-				&:hover {
-					color: $red-primary;
+.content {
+	background: $white;
+
+	.posts {
+		.post {
+			margin-bottom: 24px;
+
+			h2 {
+				font-size: 1.4rem;
+				line-height: 1.333333333;
+				margin: 0;
+
+				a {
+					color: $grey-primary;
 					text-decoration: none;
+
+					&:hover, &:focus, &:active {
+						color: $red-primary;
+					}
 				}
 			}
-		}
 
-		p {
-			margin-bottom: 12px;
-		}
+			.post-excerpt {
+				margin: 0;
+			}
 
-		blockquote {
-			border-left: 3px solid lighten($grey-primary, 25%);
-			color: lighten($grey-primary, 10%);
-			margin-bottom: 12px;
-			padding: 6px 12px;
-
-			p:last-child {
+			&:last-child {
 				margin-bottom: 0;
 			}
 		}
+	}
 
-		.post-meta {
-			margin-top: 12px;
+	&.vertical .posts {
+		padding: 24px;
 
-			.post-category {
-				color: rgba($grey-primary, 0.75);
-				font-size: 0.8em;
-				font-weight: bold;
-				line-height: 24px;
-				text-transform: capitalize;
-			}
-
-			.post-date {
-				color: rgba($grey-primary, 0.75);
-				font-size: 0.8em;
-				line-height: 24px;
-				text-transform: lowercase;
+		.post {
+			img {
+				display: none;
 			}
 		}
+	}
 
-		&.fonts {
+	&.horizontal .posts {
+		align-items: flex-end;
+		display: flex;
+		flex-direction: row;
+		overflow-x: scroll;
+		padding: 24px 12px;
+
+		.post {
+			margin: 0 12px;
+			min-width: 75%;
+
 			img {
-				box-shadow: none;
+				width: 100%;
+			}
+
+			&.post-img {
+				h2 {
+					display: none;
+				}
 			}
 		}
 	}
 
 	&.single {
-		overflow-y: scroll;
-
-		.row {
-			height: auto;
-			max-height: none;
-			padding: calc(12px * 4) 0;
-		}
+		padding: 24px;
 
 		h2 {
-			margin-bottom: 24px;
+			font-size: 2.5rem;
+			line-height: 1;
+			margin: 0;
+		}
+
+		p {
+			margin: 1.333333333rem 0;
 		}
 
 		a {
+			border-bottom: 1px solid lighten($grey-primary, 50%);
 			color: $red-primary;
+			text-decoration: none;
 
-			&:focus, &:active, &:visited {
-				color: $red-primary;
-			}
-
-			&:hover {
-				color: $red-primary;
-				text-decoration: underline;
+			&:hover, &:active, &:focus {
+				border-bottom: 1px solid $red-primary;
 			}
 		}
 
 		img {
-			box-shadow: none;
-			height: auto;
+			display: block;
 			margin: 0 0 12px -24px;
-			max-width: none;
+			min-width: 100%;
 			width: calc(100% + 48px);
+		}
 
-			&:hover {
-				box-shadow: none;
+		figure {
+			margin: 1.333333333rem 0;
+
+			figcaption {
+				color: lighten($grey-primary, 10%);
+				font-size: 0.8rem;
+				font-style: italic;
+				line-height: 1.5;
 			}
 		}
 
-		img + em {
-			color: rgba($grey-primary, 0.75);
-			font-size: 0.8em;
+		blockquote {
+			border-left: 2px solid $red-primary;
 			font-style: italic;
-			line-height: 24px;
-			margin-bottom: 12px;
+			margin: 1.333333333rem 0;
+			padding-left: 1.333333333rem;
+
+			em, i {
+				font-style: normal;
+			}
 		}
 	}
 
+	.post-category {
+		color: lighten($grey-primary, 15%);
+		display: block;
+		float: left;
+		font-size: 0.8rem;
+		font-weight: bold;
+		text-transform: capitalize;
+	}
+
+	.post-date {
+		color: lighten($grey-primary, 15%);
+		display: block;
+		float: left;
+		font-size: 0.8rem;
+		margin-left: 4px;
+	}
+
 	form {
+		margin: 1.333333333rem 0 0;
+
+		label {
+			display: block;
+			margin-bottom: 0.444444444rem;
+		}
+
 		input, textarea {
-			@include border-radius(2px);
-			padding: 11px 12px;
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			appearance: none;
+			border: 1px solid lighten($grey-primary, 40%);
+			@include border-radius(4px);
+			color: $grey-primary;
+			margin-bottom: 1.333333333rem;
+			outline: none;
+			padding: 13px 8px;
+			width: 100%;
 
 			&:active, &:focus {
-				border: 1px solid lighten($grey-primary, 20%);
-				box-shadow: none;
+				border: 1px solid $red-primary;
+			}
+
+			&::placeholder {
+				color: lighten($grey-primary, 40%);
 			}
 		}
 
 		textarea {
-			min-height: 114px;
+			min-height: 5.25rem;
 		}
 
 		input[type="submit"] {
-			background: lighten($grey-primary, 20%);
+			background: lighten($grey-primary, 40%);
 			border: none;
-			padding: 12px;
+			color: $white;
 
-			&:hover {
-				background: $grey-primary;
+			&:hover, &:active, &:focus {
+				background: lighten($grey-primary, 25%);
 				cursor: pointer;
 			}
 		}
@@ -288,121 +375,148 @@ a {
 
 .footer {
 	background: $grey-light;
+	font-size: 0.9rem;
 	padding: 24px;
 }
 
-.subscribe-title {
-	font-size: 0.9em;
-	font-weight: bold;
-	line-height: 24px;
-	margin-bottom: 12px;
-}
-
-.subscribe {
-	height: 48px;
-	margin-bottom: 12px;
-
-	input {
-		font-size: 0.9em;
+@media screen and (min-width: 768px) {
+	.header {
+		padding: 0 11%;
 	}
 
-	.mc-field-group {
-		float: left;
-		width: calc(100% - 48px);
+	.mobile-menu {
+		columns: 240px 2;
+		padding: 0 12.5% 24px;
 	}
 
-	.clear {
-		float: left;
-	}
+	.content {
+		padding: 36px 12.5%;
 
-	input[type="email"] {
-		-webkit-appearance: none;
-		-moz-appearance: none;
-		appearance: none;
+		.posts {
+			padding: 0 !important;
 
-		border: 1px solid $white;
-		@include border-radius (2px 0 0 2px);
-		color: $grey-primary;
-		padding: 11px;
-		width: 100%;
+			.post {
+				min-width: 45%;
+			}
+		}
 
-		&:active, &:focus {
-			border: 1px solid lighten($grey-primary, 20%);
-			outline: none;
+		&.single {
+			padding: 36px 12.5%;
+
+			img {
+				display: block;
+				margin: 0 0 12px -20%;
+				min-width: 100%;
+				width: 140%;
+			}
 		}
 	}
 
-	input[type="submit"] {
-		background: lighten($grey-primary, 20%);
-		border: none;
-		@include border-radius(0 2px 2px 0);
-		color: $white;
-		height: 48px;
-		transition: background 0.2s ease;
-		width: 48px;
-
-		&:hover {
-			background: $grey-primary;
-			cursor: pointer;
-		}
+	.footer {
+		padding: 24px 12.5%;
 	}
 }
 
-.copyright {
-	color: rgba($grey-primary, 0.75);
-	font-size: 0.8em;
-	line-height: 24px;
-
-	a {
-		color: rgba($grey-primary, 0.75);
-
-		&:hover {
-			color: $red-primary;
-			text-decoration: none;
-		}
+@media screen and (min-width: 992px) {
+	html {
+		height: 100%;
+		min-height: 100%;
 	}
-}
 
-@media (min-width: 992px) {
-	html, body {
+	body {
+		display: flex;
+		flex-direction: row;
 		height: 100%;
 		max-height: 100%;
 		overflow: hidden;
 	}
 
-	.container-fluid, .row {
-		height: 100%;
-		max-height: 100%;
-	}
-
 	.header {
-		height: 100%;
-		padding: calc(12px * 4) 0;
+		flex-direction: column;
+		max-height: 100%;
+		padding: 36px 24px;
 		text-align: center;
+		width: 25%;
 
 		img {
-			float: none;
-			height: 240px;
-			width: 240px;
+			height: auto;
+			margin: 0 auto;
+			width: 75%;
+		}
+
+		.name-tag {
+			display: none;
+		}
+
+		button {
+			display: none;
+		}
+
+		ul {
+			display: block;
+			font-weight: bold;
+			list-style: none;
+			padding-left: 0;
+
+			a {
+				color: $grey-primary;
+				text-decoration: none;
+				text-transform: uppercase;
+
+				&:hover {
+					color: $red-primary;
+					text-decoration: none;
+				}
+			}
+		}
+
+		.footer {
+			display: block;
+			font-size: 0.8rem;
+			padding: 0;
 		}
 	}
 
+	.mobile-menu {
+		display: none;
+	}
+
 	.content {
+		overflow-y: scroll;
+		padding: 36px 30% 36px 36px;
+		width: 75%;
+
+		.posts {
+			.post:last-child {
+				margin-bottom: 0;
+			}
+		}
+
 		&.single {
+			padding: 36px 30% 36px 36px;
+			width: 75%;
+
 			img {
-				margin: 0 0 12px 0;
-				max-width: 120%;
-				width: 120%;
+				margin: 0 0 12px;
+				width: 125%;
 			}
 
 			img + em {
 				display: block;
-				width: 120%;
+				width: 125%;
+			}
+
+			figure {
+				min-width: 125%;
+
+				img {
+					width: 100%;
+				}
 			}
 		}
 	}
 
-	.subscribe {
-		padding: 0 24px;
+	.footer {
+		display: none;
 	}
 }

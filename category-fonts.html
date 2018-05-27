@@ -7,11 +7,29 @@ pagination:
   category: fonts
 ---
 {% for post in paginator.posts %}
-<div class="post col-10 col-lg-7 col-xl-5 {{ post.category }}">
-	<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.ft-img | prepend: site.baseurl }}"></a>
-	<div class="post-meta">
+<div class="post {{ post.category }}">
+	<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+	<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+	<div class="post-meta clearfix">
 		<span class="post-category">{{ post.category }}</span>
 		<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
 	</div>
 </div> <!-- .post -->
 {% endfor %}
+
+<!-- {% if paginator.total_pages > 1 %}
+<div class="post col-10 col-lg-7 col-xl-5">
+	<ul class="paginate">
+		{% if paginator.previous_page %}
+		<li>
+			<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+		</li>
+		{% endif %}
+		{% if paginator.next_page %}
+		<li>
+			<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+		</li>
+		{% endif %}
+	</ul>
+</div>
+{% endif %} -->

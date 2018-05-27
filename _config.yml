@@ -36,9 +36,9 @@ plugins:
 timezone: Asia/Calcutta
 pagination:
     enabled: true
-    per_page: 5
-    sort_reverse: false
+    # per_page: 5
     sort_field: "stickiness"
+    sort_reverse: false
 stickyposts:
     sort: "date"
 
