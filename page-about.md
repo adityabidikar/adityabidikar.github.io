@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I’m Aditya Bidikar, and I work as a comic-book letterer (current projects include _Isola_, _These Savage Shores_, _Motor Crush_ and _Bloodborne_ – you can visit my portfolio [here](/lettering)).
+I’m Aditya Bidikar, and I work as a comic-book letterer (current projects include _Isola_, _These Savage Shores_, _Motor Crush_ and _Bloodborne_--you can visit my portfolio [here](/lettering)).
 
 I also create fonts that will soon be available for purpose—stay tuned to the 'Fonts' section on the left.
 
