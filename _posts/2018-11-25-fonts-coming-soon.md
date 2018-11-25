@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AA Might Mouse"
+title: "Fonts Coming Soon"
 date: 2016-12-24
 category: fonts
 ft-img: /img/fonts/mighty-mouse.jpg
