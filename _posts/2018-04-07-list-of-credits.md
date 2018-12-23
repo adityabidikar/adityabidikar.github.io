@@ -8,26 +8,34 @@ sticky: true
 Currently serialising:
 
 - **_Motor Crush_ #1-11** (Brenden Fletcher, Cameron Stewart, Babs Tarr &amp; Heather Danforth w/ Tom Muller) - Image Comics, 2016-2018 (ongoing).
-- **_VS_ #1-2** (Iván Brandon, Esad Ribić &amp; Nic Klein w/ Tom Muller) - Image Comics, 2018 (serialising).
-- **_Isola_ #1** (Brenden Fletcher, Karl Kerschl &amp; MSassyK) - Image Comics, 2018 (ongoing).
-- **_Paradiso_ #1-4** (Ram V., Dev Pramanik &amp; Dearbhla Kelly) - Image Comics, 2017 (serialising).
-- **_Punks Not Dead_ #1-2** (David Barnett &amp; Martin Simmonds) - Black Crown, 2018.
-- **_Maxwell’s Demons_ #1-2** (Deniz Camp &amp; Vittorio Astone) - Vault Comics, 2017-2018 (serialising).
-- **_Black Cloud_ #1-8** (Jason Latour, Ivan Brandon, Greg Hinkle &amp; Matt Wilson) - Image Comics, 2017-2018 (ongoing).
-- **_Days of Hate_ #1-3** (Aleš Kot, Danijel Žeželj &amp; Jordie Bellaire) - Image Comics, 2018 (serialising).
-- **_Bloodborne_ #1-2** (Aleš Kot, Piotr Kowalski &amp; Brad Simpson) - Titan Comics, 2018 (serialising).
-- **_Assassinistas_ #1-3** (Tini Howard, Gilbert Hernandez &amp; Rob Davis) - Black Crown, 2017-2018 (serialising).
-- **_Night’s Dominion Season 2_ #1-4** (Ted Naifeh) - Oni Press, 2017-2018 (ongoing).
-- **_The Black Crown Quarterly_ #1-2** (edited by Shelly Bond) - Black Crown, 2017-2018 (serialising).
+- **_Deep Roots_ #1-4** (Dan Watters, Val Rodrigues &amp; Tríona Farrell) - Vault Comics, 2018 (serialising).
+- **_Isola_ #1-5** (Brenden Fletcher, Karl Kerschl &amp; MSassyK) - Image Comics, 2018 (ongoing).
+- **_Maxwell’s Demons_ #1-3** (Deniz Camp &amp; Vittorio Astone) - Vault Comics, 2017-2018 (serialising).
+- **_Days of Hate_ #1-10** (Aleš Kot, Danijel Žeželj &amp; Jordie Bellaire) - Image Comics, 2018 (serialising).
+- **_Night’s Dominion Season 3_ #1-4** (Ted Naifeh) - Oni Press, 2017-2018 (serialising).
+- **_The Long Con_ #1-5** (Dylan Meconis, Ben Coleman, E. A. Denich &amp; Victoria Robado) - Oni Press, 2018 (serialising).
+- **_Grafity’s Wall_ OGN** (Ram V., Anand Radhakrishnan &amp; Jason Wordie) - Unbound Books, 2018.
+- **_These Savage Shores_ #1-2** (Ram V., Sumit Kumar &amp; Vittorio Astone) - Vault Comics, 2018 (serialising).
+- **_Bloodborne_ #1-8** (Aleš Kot, Piotr Kowalski &amp; Brad Simpson) - Titan Comics, 2018.
 
 Upcoming releases:
 
-- **_Ruin of Thieves_** (Ram V., Sumit Kumar &amp; Rosh) - Action Lab: Danger Zone, 2018.
-- **_Deep Roots_** (Dan Watters, Val Rodrigues &amp; Tríona Farrell) - Vault Comics, 2018.
-- **_Grafity’s Wall_** (Ram V., Anand Radhakrishnan &amp; Jason Wordie) - Unbound Books, 2018.
+- **_Little Bird_** (Darcy van Poelgeest, Ian Bertram &amp; Matt Hollingsworth) - 2019.
+- **_Brigantia_ #2** (Christopher Mole &amp; Melissa Trender) - 2019.
 
 Previous releases:
 
+- **_House Amok_ #1-2** (Christopher Sebela, Shawn McManus &amp; Lee Loughridge) - Black Crown, 2018.
+- **_Euthanauts_ #1-2** (Tini Howard, Nick Robles &amp; Eva de la Cruz) - Black Crown, 2018.
+- **_Yellow Submarine_ OGN** (Bill Morrison, Andrew Pepoy, Tone Rodriguez &amp; Nathan Kane) - Titan Comics, 2018.
+- **_Paradiso_ #1-8** (Ram V., Dev Pramanik &amp; Dearbhla Kelly) - Image Comics, 2017.
+- **_Ruin of Thieves_ #1-4** (Ram V., Sumit Kumar &amp; Rosh) - Action Lab: Danger Zone, 2018.
+- **_Assassinistas_ #1-6** (Tini Howard, Gilbert Hernandez &amp; Rob Davis) - Black Crown, 2017-2018.
+- **_Black Cloud_ #1-10** (Jason Latour, Ivan Brandon, Greg Hinkle &amp; Matt Wilson) - Image Comics, 2017-2018.
+- **_Night’s Dominion Season 2_ #1-4** (Ted Naifeh) - Oni Press, 2017-2018.
+- **_The Black Crown Quarterly_ #1-4** (edited by Shelly Bond) - Black Crown, 2017-2018 (serialising).
+- **_Punks Not Dead_ #1-6** (David Barnett &amp; Martin Simmonds) - Black Crown, 2018.
+- **_VS_ #1-5** (Iván Brandon, Esad Ribić &amp; Nic Klein w/ Tom Muller) - Image Comics, 2018.
 - **_Kid Lobotomy_ #1-6** (Peter Milligan, Tess Fowler &amp; Lee Loughridge) - Black Crown, 2017-2018.
 - **_Void Trip_ #1-5** (Ryan O’Sullivan &amp; Plaid Klaus) - Image Comics, 2017-2018.
 - **_Lazaretto_ #1-5** (Clay McLeod Chapman &amp; Jay Levang) - Boom! Studios, 2017.
@@ -71,20 +79,3 @@ Previous releases:
 - **_All-Nighter_ #1-5** (David Hahn) - Image Comics, 2011.
 - **_AutoPilot_** (Kishore Mohan, Sinu Chandrasenan &amp; Roshan Kurichyanil) - DragonMill Media, 2011.
 - **_Northern Song_ #1-6** (Vijayendra Mohanty, Vivek Goel et al) - Level 10 Comics, 2010-2011.
-
-Short comics (written and lettered by me):
-
-- **'Channel Zero'** (art by Nitin Veturkar) - Mid-Day, 2011.
-- **'Chains'** (art by Nitin Veturkar) - Kindle Magazine, 2011.
-- **'Death's Head'** (art by Nitin Veturkar) - Kindle Magazine, 2011.
-- **'The Glory'** (art by Kishore Mohan) - Kindle Magazine, 2011.
-- **'Fistful of Swoon'** (art by Nitin Veturkar) - Kindle Magazine, 2011.
-- **'Sweet Nothings'** (art by Shreyas Deshpande) - Kindle Magazine, 2011.
-- **'Mr. Inhuman'** (art by Nitin Veturkar) - Kindle Magazine, 2011.
-- **'Codename: Starshine'** (art by Kailien Singson) - Level 10 Comics, 2010.
-- **'The Day I Turned Off the World'** (art by Nitin Veturkar) - Kindle Magazine, 2010.
-- **'The Suicide Artist'** (art by Nitin Veturkar) - Kindle Magazine, 2010.
-- **'Watcher'** (art by Nitin Veturkar) - Kindle Magazine, 2010.
-- **'One-Minute Wonder'** (art by Nitin Veturkar) - Kindle Magazine Comics Special, 2010.
-- **'Goddess'** (art by Vivek Goel) - _Comix.India_ Vol. 2, 2010.
-- **'The Last Defenses of Mankind'** (art by Nitin Veturkar) - _Comix.India_ Vol. 1, 2010.

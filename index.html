@@ -1,41 +1,70 @@
 ---
 layout: default
-pagination:
-  enabled: true
-  sort_field: "date"
-  sort_reverse: true
 ---
-{% for post in paginator.posts %}
-	<div class="post {{ post.category }}">
-		<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-		<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
-		<div class="post-meta clearfix">
-			<span class="post-category">{{ post.category }}</span>
-			<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
-		</div>
-	</div> <!-- .post -->
-{% endfor %}
+<h3 class="section-title"><a href="{{ site.baseurl }}/blog/">Blog</a></h3>
+<div class="posts home clearfix">
+	{% for post in site.categories.blog limit:2 %}
+		<div class="post {{ post.category }}">
+			{% if post.ft-img %}
+				<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.ft-img | prepend: site.baseurl }}"></a>
+			{% endif %}
+			<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+			<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+			<div class="post-meta clearfix">
+				<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
+			</div>
+		</div> <!-- .post -->
+	{% endfor %}
+</div> <!-- .posts -->
 
-<!-- {% for post in paginator.posts %}
-	<div class="post {{ post.category }}">
-		{% if post.ft-img %}
-		<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.ft-img | prepend: site.baseurl }}"></a>
-		{% else %}
-		<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-		<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
-		{% endif %}
-		<div class="post-meta">
-			<span class="post-category">{{ post.category }}</span>
-			<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
-		</div>
-	</div>
-{% endfor %} -->
+<h3 class="section-title"><a href="{{ site.baseurl }}/lettering/">Lettering</a></h3>
+<div class="posts home clearfix">
+	{% for post in site.categories.lettering limit:2 %}
+		<div class="post {{ post.category }}">
+			{% if post.ft-img %}
+				<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.ft-img | prepend: site.baseurl }}"></a>
+				<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+			{% else %}
+				<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+				<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+			{% endif %}
+			<div class="post-meta clearfix">
+				<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
+			</div>
+		</div> <!-- .post -->
+	{% endfor %}
+</div> <!-- .posts -->
 
-<!-- <div class="post col-10 col-lg-7 col-xl-5">
-	<ul class="paginate">
-		<li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
-		<li><a href="{{ site.baseurl }}/lettering/">Lettering</a></li>
-		<li><a href="{{ site.baseurl }}/fonts/">Fonts</a></li>
-		<li><a href="{{ site.baseurl }}/writing/">Writing</a></li>
-	</ul>
-</div> -->
+<h3 class="section-title"><a href="{{ site.baseurl }}/fonts/">Fonts</a></h3>
+<div class="posts home clearfix">
+	{% for post in site.categories.fonts limit:2 %}
+		<div class="post {{ post.category }}">
+			{% if post.ft-img %}
+				<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.ft-img | prepend: site.baseurl }}"></a>
+				<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+			{% else %}
+				<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+				<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+			{% endif %}
+			<div class="post-meta clearfix">
+				<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
+			</div>
+		</div> <!-- .post -->
+	{% endfor %}
+</div> <!-- .posts -->
+
+<h3 class="section-title"><a href="{{ site.baseurl }}/writing/">Writing</a></h3>
+<div class="posts home clearfix">
+	{% for post in site.categories.writing limit:2 %}
+		<div class="post {{ post.category }}">
+			{% if post.ft-img %}
+				<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.ft-img | prepend: site.baseurl }}"></a>
+			{% endif %}
+			<h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+			<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+			<div class="post-meta clearfix">
+				<span class="post-date">{{ post.date | date: '%d%b%Y' }}</span>
+			</div>
+		</div> <!-- .post -->
+	{% endfor %}
+</div> <!-- .posts -->
