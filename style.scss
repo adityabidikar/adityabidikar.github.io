@@ -310,6 +310,10 @@ html, body {
 	}
 
 	&.single {
+		.post {
+			padding: 0 24px;
+		}
+
 		h2 {
 			font-size: 2.5rem;
 			line-height: 1;
@@ -512,6 +516,10 @@ html, body {
 		}
 
 		&.single {
+			.post {
+				padding: 0;
+			}
+			
 			img {
 				display: block;
 				margin: 0 0 12px -20%;
