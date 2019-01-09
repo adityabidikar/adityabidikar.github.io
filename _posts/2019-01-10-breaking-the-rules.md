@@ -23,6 +23,8 @@ Witness _Paradiso_, where my collaborators and I have been attempting to put our
 
 As we continued to work on the project, Ram noticed and enjoyed these things I added, and, in issue 3, decided to build an entire section around the lettering, to the extent that he and I laid out the pages for that section and marked out panels for Dev (who, to his immense credit, responded with enthusiasm rather than with annoyance) to then draw. The lettering for these sections was then baked into the artwork and sent over to our colourist Dearbhla who added her magic. All because we looked at the rule—“Good lettering should be invisible”—and went, “Sez who?”
 
-![Paradiso #3](/img/Paradiso3_Spread.jpg "Paradiso #3")
+{% figure caption:"_Paradiso_ #3" %}
+	![Paradiso #3](/img/Paradiso3_Spread.jpg "Paradiso #3")
+{% endfigure %}
 
 I’ve written extensively about this elsewhere, but part of producing interesting work is feeling ownership of what you’re doing. If you trust your collaborators, you can be assured they will let you know when you’re going too wild, where you need to rein yourself in, but even if you face the occasional embarrassment of failing in public, at least there remains a chance of you producing something genuinely interesting.
