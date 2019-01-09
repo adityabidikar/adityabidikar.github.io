@@ -7,11 +7,10 @@ sticky: true
 ---
 Currently serialising:
 
-- **_Motor Crush_ #1-11** (Brenden Fletcher, Cameron Stewart, Babs Tarr &amp; Heather Danforth w/ Tom Muller) - Image Comics, 2016-2018 (ongoing).
-- **_Deep Roots_ #1-4** (Dan Watters, Val Rodrigues &amp; Tríona Farrell) - Vault Comics, 2018 (serialising).
+- **_Deep Roots_ #1-5** (Dan Watters, Val Rodrigues &amp; Tríona Farrell) - Vault Comics, 2018 (serialising).
 - **_Isola_ #1-5** (Brenden Fletcher, Karl Kerschl &amp; MSassyK) - Image Comics, 2018 (ongoing).
 - **_Maxwell’s Demons_ #1-3** (Deniz Camp &amp; Vittorio Astone) - Vault Comics, 2017-2018 (serialising).
-- **_Days of Hate_ #1-10** (Aleš Kot, Danijel Žeželj &amp; Jordie Bellaire) - Image Comics, 2018 (serialising).
+- **_Days of Hate_ #1-11** (Aleš Kot, Danijel Žeželj &amp; Jordie Bellaire) - Image Comics, 2018 (serialising).
 - **_Night’s Dominion Season 3_ #1-4** (Ted Naifeh) - Oni Press, 2017-2018 (serialising).
 - **_The Long Con_ #1-5** (Dylan Meconis, Ben Coleman, E. A. Denich &amp; Victoria Robado) - Oni Press, 2018 (serialising).
 - **_Grafity’s Wall_ OGN** (Ram V., Anand Radhakrishnan &amp; Jason Wordie) - Unbound Books, 2018.
@@ -20,11 +19,12 @@ Currently serialising:
 
 Upcoming releases:
 
-- **_Little Bird_** (Darcy van Poelgeest, Ian Bertram &amp; Matt Hollingsworth) - 2019.
-- **_Brigantia_ #2** (Christopher Mole &amp; Melissa Trender) - 2019.
+- **_Little Bird_** (Darcy van Poelgeest, Ian Bertram &amp; Matt Hollingsworth) - Image Comics, 2019.
+- **_Punks Not Dead: London Calling_** (David Barnett &amp; Martin Simmonds) - Black Crown, 2019.
 
 Previous releases:
 
+- **_Motor Crush_ #1-11** (Brenden Fletcher, Cameron Stewart, Babs Tarr &amp; Heather Danforth w/ Tom Muller) - Image Comics, 2016-2018.
 - **_House Amok_ #1-2** (Christopher Sebela, Shawn McManus &amp; Lee Loughridge) - Black Crown, 2018.
 - **_Euthanauts_ #1-2** (Tini Howard, Nick Robles &amp; Eva de la Cruz) - Black Crown, 2018.
 - **_Yellow Submarine_ OGN** (Bill Morrison, Andrew Pepoy, Tone Rodriguez &amp; Nathan Kane) - Titan Comics, 2018.
@@ -38,7 +38,7 @@ Previous releases:
 - **_VS_ #1-5** (Iván Brandon, Esad Ribić &amp; Nic Klein w/ Tom Muller) - Image Comics, 2018.
 - **_Kid Lobotomy_ #1-6** (Peter Milligan, Tess Fowler &amp; Lee Loughridge) - Black Crown, 2017-2018.
 - **_Void Trip_ #1-5** (Ryan O’Sullivan &amp; Plaid Klaus) - Image Comics, 2017-2018.
-- **_Lazaretto_ #1-5** (Clay McLeod Chapman &amp; Jay Levang) - Boom! Studios, 2017.
+- **_Lazaretto_ #1-5** (Clay McLeod Chapman &amp; Jey Levang) - Boom! Studios, 2017.
 - **_Grant Morrison's 18 Days_ #1-26** (Grant Morrison, Jeevan J. Kang, Ashwin Pande, Francesco Biagini et al) - Graphic India, 2015-2017.
 - **_RAID.ONE_ Anthology** - three short stories (Edited by Rob Coughler &amp; Ramon Perez) - RAID Studio, 2017.
 - **_Femme Magnifique_ Anthology** (Edited by Shelly Bond, Co-Curated by Kristy &amp; Brian Miller) - 2017.
