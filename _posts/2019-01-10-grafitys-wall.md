@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grafity's Wall"
+title: "Grafity’s Wall"
 date: 2019-01-10
 category: lettering
 ft-img: /img/portfolio/Grafity_05.jpg
