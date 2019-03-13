@@ -7,23 +7,20 @@ sticky: true
 ---
 Currently serialising:
 
-- **_Deep Roots_ #1-5** (Dan Watters, Val Rodrigues &amp; Tríona Farrell) - Vault Comics, 2018 (serialising).
-- **_Isola_ #1-5** (Brenden Fletcher, Karl Kerschl &amp; MSassyK) - Image Comics, 2018 (ongoing).
+- **_Little Bird_ #1** (Darcy van Poelgeest, Ian Bertram &amp; Matt Hollingsworth) - Image Comics, 2019 (serialising).
+- **_Isola_ #1-6** (Brenden Fletcher, Karl Kerschl &amp; MSassyK) - Image Comics, 2018 (ongoing).
 - **_Maxwell’s Demons_ #1-3** (Deniz Camp &amp; Vittorio Astone) - Vault Comics, 2017-2018 (serialising).
-- **_Days of Hate_ #1-11** (Aleš Kot, Danijel Žeželj &amp; Jordie Bellaire) - Image Comics, 2018 (serialising).
-- **_Night’s Dominion Season 3_ #1-4** (Ted Naifeh) - Oni Press, 2017-2018 (serialising).
-- **_The Long Con_ #1-5** (Dylan Meconis, Ben Coleman, E. A. Denich &amp; Victoria Robado) - Oni Press, 2018 (serialising).
-- **_Grafity’s Wall_ OGN** (Ram V., Anand Radhakrishnan &amp; Jason Wordie) - Unbound Books, 2018.
-- **_These Savage Shores_ #1-2** (Ram V., Sumit Kumar &amp; Vittorio Astone) - Vault Comics, 2018 (serialising).
-- **_Bloodborne_ #1-8** (Aleš Kot, Piotr Kowalski &amp; Brad Simpson) - Titan Comics, 2018.
-
-Upcoming releases:
-
-- **_Little Bird_** (Darcy van Poelgeest, Ian Bertram &amp; Matt Hollingsworth) - Image Comics, 2019.
-- **_Punks Not Dead: London Calling_** (David Barnett &amp; Martin Simmonds) - Black Crown, 2019.
+- **_Punks Not Dead: London Calling_ #1** (David Barnett &amp; Martin Simmonds) - Black Crown, 2019 (serialising).
+- **_Night’s Dominion Season 3_ #1-6** (Ted Naifeh) - Oni Press, 2017-2018 (serialising).
+- **_The Long Con_ #1-7** (Dylan Meconis, Ben Coleman, E. A. Denich &amp; Victoria Robado) - Oni Press, 2018 (serialising).
+- **_These Savage Shores_ #1-3** (Ram V., Sumit Kumar &amp; Vittorio Astone) - Vault Comics, 2018 (serialising).
+- **_Bloodborne_ #1-9** (Aleš Kot, Piotr Kowalski &amp; Brad Simpson) - Titan Comics, 2018 (ongoing).
 
 Previous releases:
 
+- **_Grafity’s Wall_ OGN** (Ram V., Anand Radhakrishnan &amp; Jason Wordie) - Unbound Books, 2018.
+- **_Deep Roots_ #1-5** (Dan Watters, Val Rodrigues &amp; Tríona Farrell) - Vault Comics, 2018.
+- **_Days of Hate_ #1-12** (Aleš Kot, Danijel Žeželj &amp; Jordie Bellaire) - Image Comics, 2018.
 - **_Motor Crush_ #1-11** (Brenden Fletcher, Cameron Stewart, Babs Tarr &amp; Heather Danforth w/ Tom Muller) - Image Comics, 2016-2018.
 - **_House Amok_ #1-2** (Christopher Sebela, Shawn McManus &amp; Lee Loughridge) - Black Crown, 2018.
 - **_Euthanauts_ #1-2** (Tini Howard, Nick Robles &amp; Eva de la Cruz) - Black Crown, 2018.
