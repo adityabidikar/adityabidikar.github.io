@@ -8,13 +8,13 @@ sticky: true
 Currently serialising:
 
 - **_Little Bird_ #1** (Darcy van Poelgeest, Ian Bertram &amp; Matt Hollingsworth) - Image Comics, 2019 (serialising).
-- **_Isola_ #1-6** (Brenden Fletcher, Karl Kerschl &amp; MSassyK) - Image Comics, 2018 (ongoing).
+- **_Isola_ #1-7** (Brenden Fletcher, Karl Kerschl &amp; MSassyK) - Image Comics, 2018 (ongoing).
 - **_Maxwell’s Demons_ #1-3** (Deniz Camp &amp; Vittorio Astone) - Vault Comics, 2017-2018 (serialising).
-- **_Punks Not Dead: London Calling_ #1** (David Barnett &amp; Martin Simmonds) - Black Crown, 2019 (serialising).
+- **_Punks Not Dead: London Calling_ #1-2** (David Barnett &amp; Martin Simmonds) - Black Crown, 2019 (serialising).
 - **_Night’s Dominion Season 3_ #1-6** (Ted Naifeh) - Oni Press, 2017-2018 (serialising).
-- **_The Long Con_ #1-7** (Dylan Meconis, Ben Coleman, E. A. Denich &amp; Victoria Robado) - Oni Press, 2018 (serialising).
+- **_The Long Con_ #1-8** (Dylan Meconis, Ben Coleman, E. A. Denich &amp; Victoria Robado) - Oni Press, 2018 (serialising).
 - **_These Savage Shores_ #1-3** (Ram V., Sumit Kumar &amp; Vittorio Astone) - Vault Comics, 2018 (serialising).
-- **_Bloodborne_ #1-9** (Aleš Kot, Piotr Kowalski &amp; Brad Simpson) - Titan Comics, 2018 (ongoing).
+- **_Bloodborne_ #1-10** (Aleš Kot, Piotr Kowalski &amp; Brad Simpson) - Titan Comics, 2018 (ongoing).
 
 Previous releases:
 

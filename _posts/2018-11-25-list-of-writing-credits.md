@@ -8,6 +8,7 @@ sticky: true
 # Prose Short Stories
 
 - 'Jukebox' - _Faction Paradox: The Book of the Peace_ (Ed. Philip Marsh), Obverse Books, 2018.
+- ['A Photograph of You'](https://adityab.net/blog/2019/02/10/a-photograph-of-you/).
 - 'City of Dust' - _Iris Wildthyme of Mars_ (Ed. Philip Purser-Hallard), Obverse Books, 2014.
 - 'Dharmayuddha' - _Faction Paradox: Burning with Optimism's Flames_ (Ed. Jay Eales), Obverse Books, 2012.
 - 'Lucid City' - _Music of the Stars and Other Love Stories_, Scholastic Nova, 2012.
