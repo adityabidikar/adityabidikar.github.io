@@ -8,8 +8,7 @@ sticky: true
 Currently serialising:
 
 - **_John Constantine: Hellblazer_ #1-3** (Si Spurrier, Aaron Campbell & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
-- **_Isola_ #1-9** (Brenden Fletcher, Karl Kerschl & MSassyK) – Image Comics, 2018-2020 (ongoing).
-- **_Afterlift_ #1-4** (Chip Zdarsky & Jason Loorox) – Comixology Originals, 2019-2020.
+- **_Isola_ #1-10** (Brenden Fletcher, Karl Kerschl & MSassyK) – Image Comics, 2018-2020 (ongoing).
 
 Upcoming releases:
 
@@ -20,6 +19,7 @@ Upcoming releases:
 
 Previous releases:
 
+- **_Afterlift_ #1-5** (Chip Zdarsky, Jason Loo & Paris Alleyne) – Comixology Originals, 2019-2020.
 - **_Blood Moon_ #1** (P.M. Buchan & John Pearson) – 2019.
 - **_The Sandman Universe Presents: Hellblazer_** (Si Spurrier, Marcio Takara & Cris Peter) – DC Comics, 2019.
 - **_Bloodborne_ #1-16** (Aleš Kot, Piotr Kowalski & Brad Simpson) – Titan Comics, 2018-2019.
