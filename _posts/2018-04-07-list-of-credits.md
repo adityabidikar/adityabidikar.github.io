@@ -5,17 +5,23 @@ date: 2018-04-07
 category: lettering
 sticky: true
 ---
+# List of Lettering Credits
+
 Currently serialising:
 
-- **_John Constantine: Hellblazer_ #1-3** (Si Spurrier, Aaron Campbell & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
+- **_John Constantine: Hellblazer_ #1-5** (Si Spurrier, Aaron Campbell & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
 - **_Isola_ #1-10** (Brenden Fletcher, Karl Kerschl & MSassyK) – Image Comics, 2018-2020 (ongoing).
+- **_Grafity’s Wall_ Deluxe Edition** (Ram V., Anand RK & Jason Wordie) – Dark Horse, 2020.
 
 Upcoming releases:
 
 - **_Precious Metal_** (Darcy Van Poelgeest, Ian Bertram, Matt Hollingsworth w/ Ben Didier) – Image Comics, 2020.
 - **_The Killing Horizon_** (Jamie McKelvie & Matt Wilson) – Image Comics, 2020.
-- **_Blue in Green_** (Ram V., Anand RK w/ Tom Muller) – 2020.
-- **_Grafity’s Wall_ Deluxe Edition** (Ram V., Anand RK & Jason Wordie) – Dark Horse, 2020.
+- **_Giga_** (Alex Paknadel, John Lê & Rosh) – Vault Comics, 2020.
+- **_Blue in Green_** (Ram V., Anand RK w/ Tom Muller) – Image Comics, 2020.
+- **_Lost Soldiers_** (Aleš Kot, Luca Casalanguida, Heather Marie Lawrence Moore w/ Tom Muller) – Image Comics, 2020.
+- **_Wynd_** (James Tynion IV & Michael Dialynas) – Boom Studios, 2020.
+- **_Future_** (Tom Woodman & Rupert Smissen) – Unbound Books, 2020.
 
 Previous releases:
 
