@@ -5,8 +5,6 @@ date: 2018-04-07
 category: lettering
 sticky: true
 ---
-# List of Lettering Credits
-
 Currently serialising:
 
 - **_John Constantine: Hellblazer_ #1-5** (Si Spurrier, Aaron Campbell & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
