@@ -7,22 +7,27 @@ sticky: true
 ---
 Currently serialising:
 
-- **_John Constantine: Hellblazer_ #1-5** (Si Spurrier, Aaron Campbell & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
+- **_Blue in Green_** (Ram V., Anand RK & John Pearson w/ Tom Muller) – Image Comics, 2020.
+- **_John Constantine: Hellblazer_ #1-11** (Si Spurrier, Aaron Campbell, Matías Bergara & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
+- **_The Department of Truth_ #1-2** (James Tynion IV, Martin Simmonds w/ Dylan Todd)  – Image Comics, 2020 (ongoing).
+- **_Legend of the Swamp Thing: Halloween Spectacular_** - “The Heart of Trees” & “The Heart of Man (Ram V., Mike Perkins & Andy Troy) – DC Comics, 2020 (one-shot).
+- **_Wynd_ #1-5** (James Tynion IV & Michael Dialynas) – Boom Studios, 2020.
+- **_Lost Soldiers_ #1-3** (Aleš Kot, Luca Casalanguida, Heather Marie Lawrence Moore w/ Tom Muller) – Image Comics, 2020.
+- **_Giga_ #1** (Alex Paknadel, John Lê & Rosh) – Vault Comics, 2020.
 - **_Isola_ #1-10** (Brenden Fletcher, Karl Kerschl & MSassyK) – Image Comics, 2018-2020 (ongoing).
-- **_Grafity’s Wall_ Deluxe Edition** (Ram V., Anand RK & Jason Wordie) – Dark Horse, 2020.
 
 Upcoming releases:
 
-- **_Precious Metal_** (Darcy Van Poelgeest, Ian Bertram, Matt Hollingsworth w/ Ben Didier) – Image Comics, 2020.
+- **_Precious Metal_** (Darcy Van Poelgeest, Ian Bertram, Matt Hollingsworth w/ Ben Didier) – Image Comics, 2021.
 - **_The Killing Horizon_** (Jamie McKelvie & Matt Wilson) – Image Comics, 2020.
-- **_Giga_** (Alex Paknadel, John Lê & Rosh) – Vault Comics, 2020.
-- **_Blue in Green_** (Ram V., Anand RK w/ Tom Muller) – Image Comics, 2020.
-- **_Lost Soldiers_** (Aleš Kot, Luca Casalanguida, Heather Marie Lawrence Moore w/ Tom Muller) – Image Comics, 2020.
-- **_Wynd_** (James Tynion IV & Michael Dialynas) – Boom Studios, 2020.
 - **_Future_** (Tom Woodman & Rupert Smissen) – Unbound Books, 2020.
 
 Previous releases:
 
+- **_The Doomed and the Damned_** – “From Humble Roots” (Amedeo Turturro, Max Fiumara & Dave Stewart) – DC Comics, 2020 (one-shot).
+- **_Grafity’s Wall_ Extended Edition** (Ram V., Anand RK & Jason Wordie) – Dark Horse, 2020.
+- **_Harley Quinn: Black + White + Red_ #10** (Dani) – DC Comics, 2020.
+- **_Detective Comics_ #1027** – “Many Happy Returns” (Matt Fraction & Chip Zdarsky) – DC Comics, 2020.
 - **_Afterlift_ #1-5** (Chip Zdarsky, Jason Loo & Paris Alleyne) – Comixology Originals, 2019-2020.
 - **_Blood Moon_ #1** (P.M. Buchan & John Pearson) – 2019.
 - **_The Sandman Universe Presents: Hellblazer_** (Si Spurrier, Marcio Takara & Cris Peter) – DC Comics, 2019.
