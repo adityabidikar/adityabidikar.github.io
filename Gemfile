@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate-v2"
   gem "jekyll-stickyposts"
+  gem "kramdown-parser-gfm"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
