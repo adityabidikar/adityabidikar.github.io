@@ -5,35 +5,63 @@ date: 2018-04-07
 category: lettering
 sticky: true
 ---
-Currently serialising:
+## Currently serialising:
 
-- **_Blue in Green_** (Ram V., Anand RK & John Pearson w/ Tom Muller) – Image Comics, 2020.
-- **_John Constantine: Hellblazer_ #1-11** (Si Spurrier, Aaron Campbell, Matías Bergara & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
-- **_The Department of Truth_ #1-2** (James Tynion IV, Martin Simmonds w/ Dylan Todd)  – Image Comics, 2020 (ongoing).
-- **_Legend of the Swamp Thing: Halloween Spectacular_** - “The Heart of Trees” & “The Heart of Man (Ram V., Mike Perkins & Andy Troy) – DC Comics, 2020 (one-shot).
-- **_Wynd_ #1-5** (James Tynion IV & Michael Dialynas) – Boom Studios, 2020.
-- **_Lost Soldiers_ #1-3** (Aleš Kot, Luca Casalanguida, Heather Marie Lawrence Moore w/ Tom Muller) – Image Comics, 2020.
-- **_Giga_ #1** (Alex Paknadel, John Lê & Rosh) – Vault Comics, 2020.
-- **_Isola_ #1-10** (Brenden Fletcher, Karl Kerschl & MSassyK) – Image Comics, 2018-2020 (ongoing).
+- **_The Department of Truth_ #1-13** (James Tynion IV, Martin Simmonds w/ Dylan Todd)  – Image Comics, 2020 (ongoing).
+- **_Detective Comics_ #1034-1045** (Mariko Tamaki, Dan Mora, Viktor Bogdanovic, Jordie Bellaire et al) – DC Comics, 2021 (ongoing).
+- **_Swamp Thing_ #1-9** (Ram V, Mike Perkins, John McCrea & Mike Spicer) – DC Comics, 2021 (serialising).
+- **_.self_ #1** (Chris Sebela, Cara McGee & Rebecca Nalty) – Comixology, 2021.
+- **_The All-Nighter_ #1-2** (Chip Zdarsky, Jason Loo & Paris Alleyne) – Comixology, 2021.
+- **_Giga_ #1-4** (Alex Paknadel, John Lê & Rosh) – Vault Comics, 2020 (serialising).
+- **_Arkham City: The Order of the World_ #1-2** (Dan Watters, Dani & Dave Stewart) – DC Comics, 2021 (ongoing).
+- **_Home Sick Pilots_ #1-10** (Dan Watters, Caspar Wijngaard w/ Tom Muller) – Image Comics, 2021 (ongoing).
+- **_Radio Apocalypse_ #1** (Ram V, Anand RK & Anisha Shankar) – Vault Comics, 2021 (serialising).
+- **_Blue Book_ #1-3** (James Tynion & Michael Avon Oeming) – Tiny Onion Studios, 2021 (ongoing).
+- **_The Picture of Everything Else_ #1-3** (Dan Watters & Kishore Mohan) – Vault Comics, 2021 (serialising).
 
-Upcoming releases:
+## Upcoming releases:
 
-- **_Precious Metal_** (Darcy Van Poelgeest, Ian Bertram, Matt Hollingsworth w/ Ben Didier) – Image Comics, 2021.
-- **_The Killing Horizon_** (Jamie McKelvie & Matt Wilson) – Image Comics, 2020.
+- **_Everyday Hero Machine Boy_** (Tri Vuong & Irma Kniivila) – Skybound, 2022.
+- **_Precious Metal_** (Darcy Van Poelgeest, Ian Bertram, Matt Hollingsworth w/ Ben Didier) – Image Comics, 2022.
+- **_The Killing Horizon_** (Jamie McKelvie & Matt Wilson) – Image Comics, 2022.
+
+## Previous releases:
+
+- **_Green Arrow 80th Anniversary 100-Page Super Spectacular_** – “The Arrow and the Song” (Ram V, Christopher Mitten & Ivan Plascencia) – DC Comics, 2021.
+- **_DC Festival of Heroes_** – “Dress Code” & “Perceptible” (Minh Lê, Pornsak Pichetshote, Trung Le Nguyen, Alexandre Tefenkgi & Romulo Fajardo Jr.) – DC Comics, 2021.
+- **_DC Pride_** – “The Wrong Side of the Looking Glass” & “Be Gay, Do Crimes” (James Tynion IV, Sina Grace, Trung Le Nguyen, Ro Stein & Ted Brandt) – DC Comics, 2021.
+- **_Batman: Black and White_ #4** – “The Green Deal” (Chip Zdarsky & Nick Bradshaw) – DC Comics, 2021.
+- **_Batman: Black and White_ #3** – “A Kingdom of Thorns” (Bilquis Evely) – DC Comics, 2021.
+- **_Razorblades_ #4** – “Price of Entry” (Aditya Bidikar & Rosh) – Razorblades, 2021.
+- **_Razorblades_ #3** – “Learn to Swim” (Ram V & John J. Pearson) – Razorblades, 2021.
+- **_Razorblades_ #1** – “A Dream of Time” (Ram V & John J. Pearson) – Razorblades, 2020.
+- **_Cyberpunk 2077: Where’s Johnny_** (Bartosz Sztybor, Giannis Milonogiannis & Roman Titov) – Dark Horse, 2021.
+- **_The Witcher: Witch’s Lament_ #1-4** (Bartosz Sztybor, Vanesa Del Rey & Jordie Bellaire) – Dark Horse, 2021.
+- **_Batman: Legends of the Dark Knight_ #12 & #15** (Mike Rosenberg, Cian Tormey, Che Grayson, Belen Ortega et al) – DC Comics, 2021.
+- **_Batman: Urban Legends_ #7** – “_Batman Beyond_: Wake” (Jackson Lanzing & Collin Kelly, Max Dunbar & Sebastian Cheng) – DC Comics, 2021.
+- **_Truth & Justice_ #16-18** (Andrew Aydin, Juni Ba & Nick Filardi) – DC Comics, 2021.
+- **_I am Not Starfire_ OGN** (Mariko Tamaki & Yoshi Yoshitani) – DC Comics, 2021.
+- **_Everyday Hero Machine Boy_ Prologue** (Tri Vuong & Irma Kniivila) – Skybound X, 2021.
 - **_Future_** (Tom Woodman & Rupert Smissen) – Unbound Books, 2020.
-
-Previous releases:
-
+- **_Cyberpunk 2077: Big City Dreams_** (Bartosz Sztybor, Filipé Andrade, Alessio Fioriniello, Roman Titov & Krzysztof Ostrowski) – GOG.com, 2020.
+- **_Isola_ #1-10** (Brenden Fletcher, Karl Kerschl & MSassyK) – Image Comics, 2018-2020 (ongoing).
+- **_Lost Soldiers_ #1-5** (Aleš Kot, Luca Casalanguida, Heather Marie Lawrence Moore w/ Tom Muller) – Image Comics, 2020.
+- **_Wynd_ #1-5** (James Tynion IV & Michael Dialynas) – Boom Studios, 2020.
+- **_DC’s Very Merry Multiverse_** – “Christmas by Gaslight” (John Layman, Dani & Mike Spicer) – DC Comics, 2020.
+- **_Legend of the Swamp Thing: Halloween Spectacular_** - “The Heart of Trees” & “The Heart of Man (Ram V., Mike Perkins & Andy Troy) – DC Comics, 2020 (one-shot).
+- **_Blue in Green_** (Ram V., Anand RK & John Pearson w/ Tom Muller) – Image Comics, 2020.
+- **_Coffin Bound_ #1-8** (Dan Watters, Dani, Brad Simpson w/ Emma Price) – Image Comics, 2019.
+- **_John Constantine: Hellblazer_ #1-12** (Si Spurrier, Aaron Campbell, Matías Bergara & Jordie Bellaire) – DC Comics, 2019-2020 (ongoing).
+- **_Brigantia_ #2** (Chris Mole, Harriet Moulton & Melissa Trender) – Kickstarter, 2020.
 - **_The Doomed and the Damned_** – “From Humble Roots” (Amedeo Turturro, Max Fiumara & Dave Stewart) – DC Comics, 2020 (one-shot).
 - **_Grafity’s Wall_ Extended Edition** (Ram V., Anand RK & Jason Wordie) – Dark Horse, 2020.
 - **_Harley Quinn: Black + White + Red_ #10** (Dani) – DC Comics, 2020.
 - **_Detective Comics_ #1027** – “Many Happy Returns” (Matt Fraction & Chip Zdarsky) – DC Comics, 2020.
 - **_Afterlift_ #1-5** (Chip Zdarsky, Jason Loo & Paris Alleyne) – Comixology Originals, 2019-2020.
-- **_Blood Moon_ #1** (P.M. Buchan & John Pearson) – 2019.
+- **_Blood Moon_ #1-2** (P.M. Buchan & John J. Pearson) – 2019.
 - **_The Sandman Universe Presents: Hellblazer_** (Si Spurrier, Marcio Takara & Cris Peter) – DC Comics, 2019.
 - **_Bloodborne_ #1-16** (Aleš Kot, Piotr Kowalski & Brad Simpson) – Titan Comics, 2018-2019.
 - **_These Savage Shores_ #1-5** (Ram V., Sumit Kumar & Vittorio Astone) – Vault Comics, 2018-2019.
-- **_Coffin Bound_ #1-4** (Dan Watters, Dani, Brad Simpson w/ Emma Price) – Image Comics, 2019.
 - **_The White Trees_ #1-2** (Chip Zdarsky, Kristafer Anka & Matt Wilson) – Image Comics, 2019.
 - **_Little Bird_ #1-5** (Darcy Van Poelgeest, Ian Bertram, Matt Hollingsworth w/ Ben Didier) – Image Comics, 2019.
 - **_Punks Not Dead: London Calling_ #1-5** (David Barnett & Martin Simmonds) – Black Crown, 2019.
@@ -47,6 +75,7 @@ Previous releases:
 - **_House Amok_ #1-2** (Christopher Sebela, Shawn McManus & Lee Loughridge) – Black Crown, 2018.
 - **_Euthanauts_ #1-2** (Tini Howard, Nick Robles & Eva de la Cruz) – Black Crown, 2018.
 - **_Yellow Submarine_ OGN** (Bill Morrison, Andrew Pepoy, Tone Rodriguez & Nathan Kane) – Titan Comics, 2018.
+- **_Alex Automatic_ #2** (Fraser Campbell, James Corcoran & David B. Cooper) – Kickstarter, 2017.
 - **_Paradiso_ #1-8** (Ram V., Dev Pramanik & Dearbhla Kelly) – Image Comics, 2017.
 - **_Ruin of Thieves_ #1-4** (Ram V., Sumit Kumar & Rosh) – Action Lab: Danger Zone, 2018.
 - **_Assassinistas_ #1-6** (Tini Howard, Gilbert Hernandez & Rob Davis) – Black Crown, 2017-2018.
