@@ -5,7 +5,7 @@ date: 2018-04-07
 category: lettering
 sticky: true
 ---
-## Currently serialising:
+## Current:
 
 - **_The Department of Truth_ #1-13** (James Tynion IV, Martin Simmonds w/ Dylan Todd)  – Image Comics, 2020 (ongoing).
 - **_Detective Comics_ #1034-1045** (Mariko Tamaki, Dan Mora, Viktor Bogdanovic, Jordie Bellaire et al) – DC Comics, 2021 (ongoing).
@@ -19,13 +19,13 @@ sticky: true
 - **_Blue Book_ #1-3** (James Tynion & Michael Avon Oeming) – Tiny Onion Studios, 2021 (ongoing).
 - **_The Picture of Everything Else_ #1-3** (Dan Watters & Kishore Mohan) – Vault Comics, 2021 (serialising).
 
-## Upcoming releases:
+## Upcoming:
 
 - **_Everyday Hero Machine Boy_** (Tri Vuong & Irma Kniivila) – Skybound, 2022.
 - **_Precious Metal_** (Darcy Van Poelgeest, Ian Bertram, Matt Hollingsworth w/ Ben Didier) – Image Comics, 2022.
 - **_The Killing Horizon_** (Jamie McKelvie & Matt Wilson) – Image Comics, 2022.
 
-## Previous releases:
+## Previous:
 
 - **_Green Arrow 80th Anniversary 100-Page Super Spectacular_** – “The Arrow and the Song” (Ram V, Christopher Mitten & Ivan Plascencia) – DC Comics, 2021.
 - **_DC Festival of Heroes_** – “Dress Code” & “Perceptible” (Minh Lê, Pornsak Pichetshote, Trung Le Nguyen, Alexandre Tefenkgi & Romulo Fajardo Jr.) – DC Comics, 2021.
@@ -34,7 +34,6 @@ sticky: true
 - **_Batman: Black and White_ #3** – “A Kingdom of Thorns” (Bilquis Evely) – DC Comics, 2021.
 - **_Razorblades_ #4** – “Price of Entry” (Aditya Bidikar & Rosh) – Razorblades, 2021.
 - **_Razorblades_ #3** – “Learn to Swim” (Ram V & John J. Pearson) – Razorblades, 2021.
-- **_Razorblades_ #1** – “A Dream of Time” (Ram V & John J. Pearson) – Razorblades, 2020.
 - **_Cyberpunk 2077: Where’s Johnny_** (Bartosz Sztybor, Giannis Milonogiannis & Roman Titov) – Dark Horse, 2021.
 - **_The Witcher: Witch’s Lament_ #1-4** (Bartosz Sztybor, Vanesa Del Rey & Jordie Bellaire) – Dark Horse, 2021.
 - **_Batman: Legends of the Dark Knight_ #12 & #15** (Mike Rosenberg, Cian Tormey, Che Grayson, Belen Ortega et al) – DC Comics, 2021.
@@ -42,6 +41,7 @@ sticky: true
 - **_Truth & Justice_ #16-18** (Andrew Aydin, Juni Ba & Nick Filardi) – DC Comics, 2021.
 - **_I am Not Starfire_ OGN** (Mariko Tamaki & Yoshi Yoshitani) – DC Comics, 2021.
 - **_Everyday Hero Machine Boy_ Prologue** (Tri Vuong & Irma Kniivila) – Skybound X, 2021.
+- **_Razorblades_ #1** – “A Dream of Time” (Ram V & John J. Pearson) – Razorblades, 2020.
 - **_Future_** (Tom Woodman & Rupert Smissen) – Unbound Books, 2020.
 - **_Cyberpunk 2077: Big City Dreams_** (Bartosz Sztybor, Filipé Andrade, Alessio Fioriniello, Roman Titov & Krzysztof Ostrowski) – GOG.com, 2020.
 - **_Isola_ #1-10** (Brenden Fletcher, Karl Kerschl & MSassyK) – Image Comics, 2018-2020 (ongoing).
